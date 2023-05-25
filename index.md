@@ -1,3 +1,14 @@
+title: "Statistical Quality Maturity Model 2023 - Frequently Asked Questions"
+author: "Margarita Tsakiridou, Alice Toms, Charles Lound"
+date: '2023-05-25'
+output: 
+  html_document:
+    toc: true
+    number_sections: true
+    toc_float: true
+    
+ ---
+
 # SQMM overview 
 
 ## What is the SQMM? 
