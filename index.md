@@ -1,12 +1,3 @@
-title: "Statistical Quality Maturity Model 2023 - Frequently Asked Questions"
-author: "Margarita Tsakiridou, Alice Toms, Charles Lound"
-date: '2023-05-25'
-output: 
-  html_document:
-    toc: true
-    number_sections: true
-    toc_float: true
-    
  ---
 
 # SQMM overview 
@@ -27,7 +18,7 @@ The benefit of the SQMM is twofold. It helps ONS monitor the quality of its regu
 
 The data from the two previous rounds of the SQMM have become a central resource on quality in ONS. Examples of their uses include prioritizing where Deep Dive Quality Reviews should take place, efficiently providing quality information when supporting areas where published errors have occurred and understanding where legacy systems are used. 
 
- 
+  ---
 
 # The SQMM 2023 round 
 
@@ -72,6 +63,8 @@ We have streamlined the SQMM to process to work more seamlessly with the QIPs. M
 
 Both processes are part of the same loop, which enables areas identify their risks to quality (SQMM) and address them (QIP). The SQMM asks areas to rate how mature in terms of quality are parts of their end-to-end process. During the SQMM validation workshop responses are discussed and all concerns/risks identified are added at the final question of each SQMM return. Following the final submission and DD approval, those risks will be considered for the divisional QIP if not already there, and, if appropriate, they will be addressed through the QIP.  
 
+ ---
+ 
 # Stage1: The SQMM questionnaire 
 
 ## Do you have any advice for completing my questionnaire? 
@@ -104,6 +97,8 @@ For any issues, questions please contact DQHub@ons.gov.uk. We will also hold dro
 
 Yes, we do. While you fill in your questionnaire, a small team of us here in DQHub read through your responses and might contact you to discuss. This might happen close to your validation workshop. The purpose of this is twofold. It helps us validate the responses, e.g., that the examples you used are sufficient, and at the same time that the examples correspond to the rating that you have chosen.  
 
+ ---
+ 
 # Stage 2: The SQMM validation workshop 
 
 ## What is the purpose of the validation workshop? 
@@ -137,6 +132,8 @@ As in previous years, we ask that the DD chairs the workshop, and that all outpu
 
 If you are an output manager, please make sure that you have saved your responses, you have completed the initial part of the assessment, and have clicked the hot link at the end of it where it sends an email to DQHub@ons.gov.uk to let us know you have done so. Close to your workshop, we will provide a summary of your provisional results. It would be good to revise your responses as well as your provisional results and be ready to discuss those with your divisional colleagues. 
 
+ ---
+ 
 # Stage 3: Final Submission 
 
 ## What do I need to do after my validation workshop? 
@@ -151,7 +148,8 @@ Yes, please contact DQHub@ons.gov.uk.
 
 Yes, please contact DQHub@ons.gov.uk. 
 
-
+ ---
+ 
 # After the SQMM 2023 
 
 ## How will the SQMM findings be incorporated in the QIPs? 
