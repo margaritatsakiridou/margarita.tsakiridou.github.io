@@ -2,7 +2,7 @@
 
 # SQMM overview 
 
-<font size= "30"> **What is the SQMM?** </font> 
+<font size= "7"> **What is the SQMM?** </font> 
 
 The Statistical Quality Maturity Model is annually commissioned by the Quality Committee since 2021, so 2023 is its 3rd round. It is an exercise that helps ONS monitor the quality of its regular outputs and identify areas in need of further support. By doing this, it enables ONS to be pro-active in identifying quality improvements that need to be made to its statistics to meet the needs of its users. 
 
