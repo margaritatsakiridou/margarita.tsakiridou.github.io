@@ -2,34 +2,33 @@
 
 # SQMM overview 
 
-## What is the SQMM? 
+**What is the SQMM?** 
 
 The Statistical Quality Maturity Model is annually commissioned by the Quality Committee since 2021, so 2023 is its 3rd round. It is an exercise that helps ONS monitor the quality of its regular outputs and identify areas in need of further support. By doing this, it enables ONS to be pro-active in identifying quality improvements that need to be made to its statistics to meet the needs of its users. 
 
  
 
-## What are the benefits of the SQMM? 
+**What are the benefits of the SQMM?** 
 
-The benefit of the SQMM is twofold. It helps ONS monitor the quality of its regular outputs and identify areas of further support. At the same time, it also gives the opportunity to production teams to pause and reflect on risks to the quality of their statistics. Teams can subsequently use the SQMM to raise those concerns to be heard across their divisions and, if appropriate addressed.   
+The benefit of the SQMM is twofold. It helps ONS monitor the quality of its regular outputs and identify areas of further support. At the same time, it also gives the opportunity for production teams to pause and reflect on risks to the quality of their statistics. Teams can subsequently use the SQMM to raise those concerns to be heard across their divisions and, if appropriate addressed.   
 
  
 
-## How have results from previous years been used? 
+**How have results from previous years been used?** 
 
-The data from the two previous rounds of the SQMM have become a central resource on quality in ONS. Examples of their uses include prioritizing where Deep Dive Quality Reviews should take place, efficiently providing quality information when supporting areas where published errors have occurred and understanding where legacy systems are used. 
+The data from the two previous rounds of the SQMM have become a central resource on quality in ONS. Examples of their uses include prioritizing where deep dive Quality Reviews should take place, readily providing quality information when supporting areas where published errors have occurred and understanding where legacy systems are used. 
 
   ---
 
 # The SQMM 2023 round 
 
- 
 
-## Who needs to complete an SQMM? 
+**Who needs to complete an SQMM?** 
 
-Output managers of regular outputs are responsible for completing an SQMM for their outputs. However, as SQMM questions cover the end-to-end production process, we encourage managers to involve and consult their teams and colleagues from other teams involved.
+Output managers of regular outputs are responsible for completing an SQMM for their outputs. However, as SQMM questions cover the end-to-end production process, we encourage managers to involve and consult their teams and colleagues from other teams involved.  
 
 
-## What stages are there in the SQMM processes? 
+**What stages are there in the SQMM processes** 
 
 There are three main stages in the SQMM process: 
 
@@ -39,7 +38,7 @@ There are three main stages in the SQMM process:
 
  
 
-## What are the key dates for the SQMM 2023 round? 
+**What are the key dates for the SQMM 2023 round?** 
 
 - SQMM questionnaire: 15th May – 11th August 
 - SQMM validation workshop: 15th August – 15th September 
@@ -47,7 +46,7 @@ There are three main stages in the SQMM process:
 
  
 
-## What changes have you made this year? 
+**What changes have you made this year?** 
 
 Following the feedback that we received through the feedback survey and from discussions with quality champions as well as with output managers that went through the SQMM process in previous years, we have made the following improvements: 
 
@@ -59,43 +58,45 @@ We have streamlined the SQMM to process to work more seamlessly with the QIPs. M
 
  
 
-## How does the SQMM work with our Quality Improvement Plan (QIP)? 
+**How does the SQMM work with our Quality Improvement Plan (QIP)?** 
 
-Both processes are part of the same loop, which enables areas identify their risks to quality (SQMM) and address them (QIP). The SQMM asks areas to rate how mature in terms of quality are parts of their end-to-end process. During the SQMM validation workshop responses are discussed and all concerns/risks identified are added at the final question of each SQMM return. Following the final submission and DD approval, those risks will be considered for the divisional QIP if not already there, and, if appropriate, they will be addressed through the QIP.  
+Both processes are part of the same loop, which enables areas to identify their risks to quality (SQMM) and address them (QIP). The SQMM asks areas to rate how mature in terms of quality are parts of their end-to-end process. During the SQMM validation workshop responses are discussed and all concerns/risks identified are added at the final question of each SQMM return. Following the final submission and DD approval, those risks will be considered for the divisional QIP if not already there, and, if appropriate, they will be addressed through the QIP.    
 
  ---
  
 # Stage1: The SQMM questionnaire 
 
-## Do you have any advice for completing my questionnaire? 
+**Do you have any advice for completing my questionnaire? **
 
-Keep your end-to-end process in mind when completing the questionnaire. Treat descriptors, where these are available next to response options, as examples of what good or not so good might mean and pick the one that you believe applies best. Use the free text boxes to let us know about any uncertainty in your choice of response. Take your time, contact, and discuss with the teams responsible for each part of the production. The survey platform enables you to save and return to your responses, so we strongly recommend not trying to complete your SQMM in one sitting. A word version of the questionnaire can be found here. This will allow you to scroll through the entire questionnaire before completing it.  
+Keep your end-to-end process in mind when completing the questionnaire. Treat descriptors, where these are available next to response options, as examples of what good or not so good might mean and pick the one that you believe applies best. Use the free text boxes to let us know why you chose that response and about any uncertainty in your choice. Take your time, contact, and discuss with the teams responsible for each part of the production. The survey platform enables you to save and return to your responses, so we strongly recommend not trying to complete your SQMM in one sitting. A word version of the questionnaire can be found here. This will allow you to scroll through the entire questionnaire before completing it.  
 
  
 
-## Can I have a copy my SQMM responses from last year? 
+**Can I have a copy my SQMM responses from last year?**
 
 If you completed an SQMM return last year (2022), yes. Please contact DQHub@ons.gov.uk to request this. 
 
  
 
-## Can you provide me with a pre-filled questionnaire with responses from last year? 
+**Can you provide me with a pre-filled questionnaire with responses from last year?**
 
-Unfortunately, there is limited functionality to implement this in the platform we use to run the SQMM. We can provide you with a PDF copy with your responses from last year, and you can copy what is relevant into this year’s form. Please contact DQHub@ons.gov.uk to request a copy of your previous year’s responses. 
+Unfortunately, there is limited functionality to implement this in the platform we use to run the SQMM, and some questions have changed. We can provide you with a PDF copy with your responses from last year, and you can copy what is relevant into this year’s form. Please contact DQHub@ons.gov.uk to request a copy of your previous year’s responses. 
 
  
 
-## What support is available for completing my questionnaire? 
+**What support is available for completing my questionnaire?** 
 
 For any issues, questions please contact DQHub@ons.gov.uk. We will also hold drop-in sessions which you can join, these will be advertised on Reggie. The dates for these sessions are: 
 
-- 19th June 
-- 17th July 
-- 31st July 
+19th June 
 
-## Do you read through our responses? 
+18th July 
 
-Yes, we do. While you fill in your questionnaire, a small team of us here in DQHub read through your responses and might contact you to discuss. This might happen close to your validation workshop. The purpose of this is twofold. It helps us validate the responses, e.g., that the examples you used are sufficient, and at the same time that the examples correspond to the rating that you have chosen.  
+3rd August 
+
+**Do you read through our responses?** 
+
+Yes, we do. After you’ve filled in your questionnaire, a small team of us here in DQHub will read through your responses prior to the validation workshop and might contact you to discuss. The purpose of this is twofold. It helps us validate the responses, e.g., that the examples you used are sufficient, and at the same time that the examples correspond to the rating that you have chosen.  
 
  ---
  
