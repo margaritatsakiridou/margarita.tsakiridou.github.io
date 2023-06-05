@@ -2,4 +2,6 @@ title: Statistical Quality Maturity Model 2023
 description: Frequently Asked Questions
 show_downloads: false
 google_analytics:
-theme: jelyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+ - jekyll-remore-theme
