@@ -8,13 +8,13 @@ The Statistical Quality Maturity Model is annually commissioned by the Quality C
 
  
 
-<font size= "3">**What are the benefits of the SQMM?** 
+<font size= "3">**What are the benefits of the SQMM?** </font> 
 
 The benefit of the SQMM is twofold. It helps ONS monitor the quality of its regular outputs and identify areas of further support. At the same time, it also gives the opportunity for production teams to pause and reflect on risks to the quality of their statistics. Teams can subsequently use the SQMM to raise those concerns to be heard across their divisions and, if appropriate addressed.   
 
  
 
-<font size= "3">**How have results from previous years been used?** 
+<font size= "3">**How have results from previous years been used?** </font> 
 
 The data from the two previous rounds of the SQMM have become a central resource on quality in ONS. Examples of their uses include prioritizing where deep dive Quality Reviews should take place, readily providing quality information when supporting areas where published errors have occurred and understanding where legacy systems are used. 
 
@@ -23,12 +23,12 @@ The data from the two previous rounds of the SQMM have become a central resource
 # The SQMM 2023 round 
 
 
-<font size= "3">**Who needs to complete an SQMM?** 
+<font size= "3">**Who needs to complete an SQMM?** </font> 
 
 Output managers of regular outputs are responsible for completing an SQMM for their outputs. However, as SQMM questions cover the end-to-end production process, we encourage managers to involve and consult their teams and colleagues from other teams involved.  
 
 
-<font size= "3">**What stages are there in the SQMM processes** 
+<font size= "3">**What stages are there in the SQMM processes** </font> 
 
 There are three main stages in the SQMM process: 
 
@@ -38,7 +38,7 @@ There are three main stages in the SQMM process:
 
  
 
-<font size= "3">**What are the key dates for the SQMM 2023 round?** 
+<font size= "3">**What are the key dates for the SQMM 2023 round?** </font> 
 
 - SQMM questionnaire: 15th May – 11th August 
 - SQMM validation workshop: 15th August – 15th September 
@@ -46,7 +46,7 @@ There are three main stages in the SQMM process:
 
  
 
-<font size= "3">**What changes have you made this year?** 
+<font size= "3">**What changes have you made this year?** </font> 
 
 Following the feedback that we received through the feedback survey and from discussions with quality champions as well as with output managers that went through the SQMM process in previous years, we have made the following improvements: 
 
@@ -58,7 +58,7 @@ We have streamlined the SQMM to process to work more seamlessly with the QIPs. M
 
  
 
-<font size= "3">**How does the SQMM work with our Quality Improvement Plan (QIP)?** 
+<font size= "3">**How does the SQMM work with our Quality Improvement Plan (QIP)?** </font> 
 
 Both processes are part of the same loop, which enables areas to identify their risks to quality (SQMM) and address them (QIP). The SQMM asks areas to rate how mature in terms of quality are parts of their end-to-end process. During the SQMM validation workshop responses are discussed and all concerns/risks identified are added at the final question of each SQMM return. Following the final submission and DD approval, those risks will be considered for the divisional QIP if not already there, and, if appropriate, they will be addressed through the QIP.    
 
@@ -66,35 +66,35 @@ Both processes are part of the same loop, which enables areas to identify their 
  
 # Stage1: The SQMM questionnaire 
 
-<font size= "3">**Do you have any advice for completing my questionnaire? **
+<font size= "3">**Do you have any advice for completing my questionnaire?**</font> 
 
-Keep your end-to-end process in mind when completing the questionnaire. Treat descriptors, where these are available next to response options, as examples of what good or not so good might mean and pick the one that you believe applies best. Use the free text boxes to let us know why you chose that response and about any uncertainty in your choice. Take your time, contact, and discuss with the teams responsible for each part of the production. The survey platform enables you to save and return to your responses, so we strongly recommend not trying to complete your SQMM in one sitting. A word version of the questionnaire can be found here. This will allow you to scroll through the entire questionnaire before completing it.  
+Keep your end-to-end process in mind when completing the questionnaire. Treat descriptors, where these are available next to response options, as examples of what good or not so good might mean and pick the one that you believe applies best. Use the free text boxes to let us know why you chose that response and about any uncertainty in your choice. Take your time, contact, and discuss with the teams responsible for each part of the production. The survey platform enables you to save and return to your responses, so we strongly recommend not trying to complete your SQMM in one sitting. A word version of the questionnaire can be found [here](https://officenationalstatistics.sharepoint.com/:w:/r/sites/DQHub/_layouts/15/Doc.aspx?sourcedoc=%7B47BB7D89-76C6-4D36-8E0C-337EEBD9F061%7D&file=SQMM2023_questionnaire.docx&action=default&mobileredirect=true). This will allow you to scroll through the entire questionnaire before completing it.  
 
  
 
-<font size= "3">**Can I have a copy my SQMM responses from last year?**
+<font size= "3">**Can I have a copy my SQMM responses from last year?**</font> 
 
 If you completed an SQMM return last year (2022), yes. Please contact DQHub@ons.gov.uk to request this. 
 
  
 
-<font size= "3">**Can you provide me with a pre-filled questionnaire with responses from last year?**
+<font size= "3">**Can you provide me with a pre-filled questionnaire with responses from last year?**</font> 
 
 Unfortunately, there is limited functionality to implement this in the platform we use to run the SQMM, and some questions have changed. We can provide you with a PDF copy with your responses from last year, and you can copy what is relevant into this year’s form. Please contact DQHub@ons.gov.uk to request a copy of your previous year’s responses. 
 
  
 
-<font size= "3">**What support is available for completing my questionnaire?** 
+<font size= "3">**What support is available for completing my questionnaire?** </font> 
 
 For any issues, questions please contact DQHub@ons.gov.uk. We will also hold drop-in sessions which you can join, these will be advertised on Reggie. The dates for these sessions are: 
 
-19th June 
+- 19th June 
 
-18th July 
+- 18th July 
 
-3rd August 
+- 3rd August 
 
-<font size= "3">**Do you read through our responses?** 
+<font size= "3">**Do you read through our responses?** </font> 
 
 Yes, we do. After you’ve filled in your questionnaire, a small team of us here in DQHub will read through your responses prior to the validation workshop and might contact you to discuss. The purpose of this is twofold. It helps us validate the responses, e.g., that the examples you used are sufficient, and at the same time that the examples correspond to the rating that you have chosen.  
 
@@ -102,26 +102,26 @@ Yes, we do. After you’ve filled in your questionnaire, a small team of us here
  
 # Stage 2: The SQMM validation workshop 
 
-<font size= "3">**What is the purpose of the validation workshop? 
+<font size= "3">**What is the purpose of the validation workshop? </font> 
 
 The validation workshop has three different functions: Firstly, it will give teams the opportunity to set aside some time to have an in-depth discussion on the quality of their statistics. Secondly, each output manager in collaboration with their DD and divisional colleagues will identify and discuss their main risks to quality and document those concerns in the final question. These will later be considered by the DD and quality champions for addition to the divisional QIP where they can be addressed. Thirdly, it will ensure some consistency in the results of the SQMM as the answers to questions can in some cases be open to interpretation. Following the workshop and discussions held there, output managers can amend their responses. The workshop can therefore improve the accuracy of the results which will in turn mean that the SQMM results can be better compared across the organisation. 
 
  
 
-<font size= "3">**How and when do I book my validation workshop? 
+<font size= "3">**How and when do I book my validation workshop? </font> 
 
  We will contact you at the end of June to ask you to book your validation workshop. 
 
-<font size= "3">**Who long will the validation workshop take? 
+<font size= "3">**Who long will the validation workshop take? </font> 
 
 As in previous years, we will ask you to book your validation workshop for two hours. 
  
-<font size= "3">**Who needs to attend the validation workshop? 
+<font size= "3">**Who needs to attend the validation workshop? </font> 
 
 As in previous years, we ask that the DD chairs the workshop, and that all output managers and quality champions of each division attend. If there are more colleagues that are involved in production, please feel free to extend the invite. One or more representatives from Quality and Improvement division will also attend. We will circulate more information on who needs to attend when we contact you to ask you to book your workshop, at the end of June. 
 
 
-<font size= "3">**What do I need to do before my validation workshop? 
+<font size= "3">**What do I need to do before my validation workshop? </font> 
 
 If you are an output manager, please make sure that you have saved your responses, you have completed the initial part of the assessment, and have clicked the hot link at the end of it where it sends an email to DQHub@ons.gov.uk to let us know you have done so. Close to your workshop, we will provide a summary of your provisional results. It would be good to revise your responses as well as your provisional results and be ready to discuss those with your divisional colleagues. 
 
@@ -129,15 +129,15 @@ If you are an output manager, please make sure that you have saved your response
  
 # Stage 3: Final Submission 
 
-<font size= "3">**What do I need to do after my validation workshop? 
+<font size= "3">**What do I need to do after my validation workshop? </font> 
 
 <font size= "3">**Following your workshop, please log back into your survey responses. Please make any amendments requested during your workshop to the questionnaire.  Following your discussions, fill in question number 36 on your risks to quality, action and click the final three boxes before hitting “submit”.  
 
-I cannot find a link to go back to my questionnaire. Can you help me? 
+I cannot find a link to go back to my questionnaire. Can you help me? </font> 
 
 Yes, please contact DQHub@ons.gov.uk. 
 
-<font size= "3">**Can I have a copy of my final responses? 
+<font size= "3">**Can I have a copy of my final responses? </font> 
 
 Yes, please contact DQHub@ons.gov.uk. 
 
@@ -145,12 +145,12 @@ Yes, please contact DQHub@ons.gov.uk.
  
 # After the SQMM 2023 
 
-<font size= "3">**How will the SQMM findings be incorporated in the QIPs? 
+<font size= "3">**How will the SQMM findings be incorporated in the QIPs? </font> 
 
 Following the complete submission of your SQMM, we will ask DDs and Quality Champions to revise what’s already in their QIPs and make sure what you have added as your risks in the final question (36), is either already reflected in your divisional QIP or added if not already there. 
 
 
-<font size= "3">**How will the SQMM results be disseminated? 
+<font size= "3">**How will the SQMM results be disseminated? </font> 
 
 DQhub will prepare reports with the results for the Quality Committee and the Quality Delivery Group. We will then share high level results on Reggie and will circulate a leader board with the areas that are scoring best in each theme so that you can contact them for advice. If you have any other ideas on how we should disseminate the results, please get in touch. 
 
